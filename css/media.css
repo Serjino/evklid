@@ -234,14 +234,11 @@
   }
 
   .burger-menu__button {
-    /* align-self: center; */
     position: absolute;
     top: -15px;
     z-index: 100;
     width: 30px;
     height: 30px;
-    /* margin-top: -10px; */
-    /* background: url('/img/burger.svg') no-repeat center center; */
     line-height: 0;
     transform: rotate(180deg);
   }
@@ -623,7 +620,7 @@
   }
 
   .advantage__content-description_box {
-    background: url('/img/section_about_us__box.svg') no-repeat center top;
+    background: url('../img/section_about_us__box.svg') no-repeat center top;
     padding-left: 0;
     padding-top: 130px;
     background-size: 130px;
@@ -632,7 +629,7 @@
   }
 
   .advantage__content-description_gears {
-    background: url('/img/section_about_us__gears.svg') no-repeat center top;
+    background: url('../img/section_about_us__gears.svg') no-repeat center top;
     padding-left: 0;
     padding-top: 130px;
     background-size: 130px;
