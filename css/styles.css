@@ -463,7 +463,7 @@ header {
 }
 
 .carousel__controls-step__button:focus:not(:active) {
-  */ color: var(--main_color_deep);
+  color: var(--main_color_deep);
 }
 
 .carousel__controls-step:not(:last-of-type) {
