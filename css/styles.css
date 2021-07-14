@@ -82,6 +82,10 @@ header {
   display: none;
 }
 
+.burger-menu--active {
+  fill: var(--main_color) !important;
+}
+
 .header__logo {
   margin-right: auto;
 }
